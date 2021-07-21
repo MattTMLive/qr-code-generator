@@ -1,6 +1,6 @@
 # Simple QR Code Generator - Python
 
-###Requirements
+### Requirements
 - qrcode 7.2
 - pillow 8.3.1
 

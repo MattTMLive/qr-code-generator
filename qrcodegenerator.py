@@ -1,6 +1,6 @@
 import qrcode
 
-qrcode_data = "https://primevtc.com/"
+qrcode_data = "https://github.com/MattTMLive/qr-code-generator/" # Change this line to whatever you want
 
 qr = qrcode.QRCode(
     version=1,

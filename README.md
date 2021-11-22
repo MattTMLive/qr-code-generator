@@ -4,6 +4,9 @@
 - qrcode 7.2
 - pillow 8.3.1
 
+### Setup
+`pip install -r requirements.txt`
+
 ### How it works
 Run `qrcodegenerator.py` and a QR code will generate in the `qrcode001.png` file. 
 
